@@ -1,5 +1,5 @@
 # meditation-app
-> Learning Project 8: Meditation App
+> Learning Project 4
 
 Part of my personal learning projects, this responsive website demonstrates my ability to use:
 - HTML
